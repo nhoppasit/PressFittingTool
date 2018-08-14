@@ -1,0 +1,1221 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV002\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV002\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV002\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV002\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV002\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV003\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV003\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV003\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV003\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV003\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV003\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV003\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV003\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV003\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV004\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV005\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV006\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV007\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV008\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV009\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV010\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV011\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV012\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV013\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV014\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV015\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV016\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV016\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV016\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV017 add point\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV018\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV020\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV021\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV023\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV023\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV023\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmRobotic.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV024\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmRobotic.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV025\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV026\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV026\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV026\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmRobotic.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV027\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV029\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV029\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro PCREV029\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmRobotic.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV032\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmRobotic.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV034 db design\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmRobotic.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV041\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmRobotic.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV070\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV072\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV073 unuse tick\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV073 unuse tick\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV073 unuse tick\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV074\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV075\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV075\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV075\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV076\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV078\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV079\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV080\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV080\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV080\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081 db\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV081\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV082\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV083\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV083\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV083\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV084\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 add user\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 add user\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 add user\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 delete user\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV085 Save account\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV087\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV088\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV090\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV091\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV092\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV094\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV096\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV097\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV098\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0100\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0102\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0104\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0105\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0106\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0107\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0107\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0107\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0109\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0109\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0109\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0110\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV0111\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV113\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV115\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV116\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV117\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV119\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV120\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV121\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV122\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV123\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV124\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV127\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV128\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV129\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV130\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV131\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV132\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV135\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV136\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV136\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV136\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV137\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV138\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV139\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV139\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV139\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV140\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV141\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV143\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV144\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV144\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV144\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV145\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\ResolveAssemblyReference.cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Cerestica Robo\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\PressFitProDB.sdf
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.exe.manifest
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.application
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.exe
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.pdb
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.csprojResolveAssemblyReference.cache
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmAddUser.resources
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmConnectorOnBoardEdit.resources
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmLogin.resources
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMain.resources
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmMessage.resources
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmProfileParameterEdit.resources
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.frmSelectBoard.resources
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press_Fit_Pro.Properties.Resources.resources
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.csproj.GenerateResource.Cache
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.exe.manifest
+F:\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.application
+F:\jia_developement\My Code\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\bin\Debug\Press Fit Pro.exe.config
+F:\jia_developement\My Code\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.exe
+F:\jia_developement\My Code\Press fitting\SCR\Press Fit Pro JREV146\Press Fit Pro\obj\Debug\Press Fit Pro.pdb
